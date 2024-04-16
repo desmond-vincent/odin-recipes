@@ -3,9 +3,7 @@ Welcome to the Repo Recipes assignment from The Odin Project project! In this as
 
 By the end of this project, I demonstrated proficiency in:
 
-<strong>HTML coding </strong>: Crafting well-structured and semantic markup to represent content.
-
-CSS styling: Enhancing the visual presentation of my web pages with layout, colors, typography, and more.
+<strong>HTML coding </strong>: <em>Crafting well-structured and semantic markup to represent content.</em>
 
 Proper formatting: Ensuring readability and accessibility through consistent formatting and adherence to web standards.
 
